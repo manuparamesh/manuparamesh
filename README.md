@@ -24,3 +24,4 @@ I am currently building public, production-oriented reference implementations in
 ## Contact
 - LinkedIn: www.linkedin.com/in/manuparamesh2612
 - Email: manuparameshi3@gmail.com
+- Medium: https://medium.com/@manuparameshi3
